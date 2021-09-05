@@ -6,6 +6,6 @@ module Flacsmith
     NAME = "flacsmith"
     LABEL = "Flacsmith"
     VERSION = "8.0.2"
-    VERSION_LABEL = "#{LABEL} #{VERSION}"
+    VERSION_LABEL = "#{LABEL} #{VERSION}".freeze
   end
 end
