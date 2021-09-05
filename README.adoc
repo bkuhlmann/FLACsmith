@@ -11,12 +11,10 @@ image::https://img.shields.io/badge/code_style-alchemists-brightgreen.svg[Alchem
 [link=https://circleci.com/gh/bkuhlmann/flacsmith]
 image::https://circleci.com/gh/bkuhlmann/flacsmith.svg?style=svg[Circle CI Status]
 
-This is a Ruby wrapper for the link:https://xiph.org/flac[FLAC] commands. It aids in
+This gem is a Ruby wrapper for link:https://xiph.org/flac[FLAC] commands. FLACsmith aids in
 listing/rebuilding metadata for a music collection, artist, album, or song. Having metadata
 information that reflects the directory/file structure makes organizing and managing large music
-collections easier. This can be especially useful with tools like
-link:https://sourceforge.net/projects/audacity[Audacity] and/or
-link:https://www.videolan.org/vlc/index.html[VLC].
+collections easier. This can be especially useful with tools like link:https://iina.io[IINA].
 
 toc::[]
 
